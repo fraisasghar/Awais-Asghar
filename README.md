@@ -74,6 +74,25 @@ Experienced in deploying real-time machine learning models on edge platforms, wi
 Proficient across **FPGA platforms** (Zybo Z7-20 · Artix A7 · DE1-SOC), **embedded systems** (STM32 · ESP32 · FreeRTOS · Jetson Nano),
 and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And backed by strong foundations in Python, C/C++, MATLAB, and Assembly.
 
+
+
+
+## Education
+
+<table>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://raw.githubusercontent.com/fraisasghar/fraisasghar/main/nust_logo.png" width="60" alt="NUST"/>
+    </td>
+    <td>
+      <strong>Bachelor of Engineering in Electrical Engineering</strong><br/>
+      <a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan<br/>
+      📅 <em>2022 – 2026</em> &nbsp;|&nbsp;  <strong>CGPA: 3.58 / 4.00</strong>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
  <!----------------------------------------------Technical stack ------------------------------------------------------>
