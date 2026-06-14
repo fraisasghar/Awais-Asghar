@@ -66,6 +66,16 @@
 ---
 
 
+## Professional Summary:
+
+Electrical Engineering graduate from **NUST (2026)**, specializing in **AI acceleration**, **FPGA-based RTL design**, and **embedded AI systems**.
+Experienced in deploying real-time machine learning models on edge platforms, with hands-on expertise in **hardware-software co-design** using CUDA, Verilog, SystemVerilog, and Embedded C.
+
+Proficient across **FPGA platforms** (Zybo Z7-20 · Artix A7 · DE1-SOC), **embedded systems** (STM32 · ESP32 · FreeRTOS · Jetson Nano),
+and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And backed by strong foundations in Python, C/C++, MATLAB, and Assembly.
+
+---
+
  <!----------------------------------------------Technical stack ------------------------------------------------------>
 
 
