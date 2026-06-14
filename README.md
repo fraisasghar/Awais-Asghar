@@ -1,7 +1,19 @@
+ <!---------------------------------------------- Cover Banner ------------------------------------------------------>
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=Electrical%20Engineer%20|%20AI%20Accelerators%20|%20Embedded%20AI&descSize=26&descAlignY=78" />
 </div>
+
+ <!---------------------------------------------- views, followers Banner ------------------------------------------------------>
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/Awais-Asghar">
+    <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
+    <img src="https://komarev.com/ghpvc/?username=Awais-Asghar&label=Profile%20Views&color=1E3A8A&style=for-the-badge" height="50"/>
+    <img src="https://img.shields.io/github/followers/Awais-Asghar?label=Followers&color=1E3A8A&style=for-the-badge&logo=github&logoColor=white" height="50"/>
+   <img src="https://img.shields.io/github/stars/Awais-Asghar?label=Total%20Stars&color=FF8C00&style=for-the-badge&logo=star&logoColor=white" height="50"/>
+  </a>
+</p>
+
 
 ---
 
@@ -30,7 +42,7 @@ Strong interest in hardware software co-design and real-time ML deployment on ed
 </p>
 
    
-  
+
 ---
 
 ## Education
