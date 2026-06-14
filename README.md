@@ -194,27 +194,39 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 
 ---
 
-## Contact
+## Connect With Me
+
 <div align="center">
-  <a href="mailto:awaisasghara786@gmail.com">
-    <img src="https://img.shields.io/badge/Email%201-awaisasghara786@gmail.com-005FF9?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
-    <img src="https://img.shields.io/badge/Email%202-aasghar.bee22seecs@seecs.edu.pk-005FF9?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="https://linkedin.com/in/awais--asghar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Awais-Asghar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
-  </a>
+
+<a href="mailto:awaisasghara786@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="45" alt="Outlook"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/awais--asghar">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Awais-Asghar">
+  <img src="https://img.icons8.com/fluency/48/github.png" width="45" alt="GitHub"/>
+</a>
+
+<br/>
+<sub>📧 awaisasghara786@gmail.com &nbsp;|&nbsp; 🏛️ aasghar.bee22seecs@seecs.edu.pk &nbsp;|&nbsp; 💼 LinkedIn &nbsp;|&nbsp;  GitHub</sub>
+</br>
+Built for AI accelerator research, FPGA design, and graduate opportunities
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
 
-<p align="center">
-Built for AI accelerator research, FPGA design, and graduate opportunities
-</p>
