@@ -52,9 +52,6 @@
 <br>
 
 
-
-
-
  <!---------------------------------------------- views, followers Banner ------------------------------------------------------>
 <p align="center">
   <a href="https://profile-summary-for-github.com/user/Awais-Asghar">
@@ -67,6 +64,92 @@
 
 
 ---
+
+
+ <!----------------------------------------------Technical stack ------------------------------------------------------>
+
+
+
+### My Technical Stack:
+
+**1. Languages**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="50" alt="C" src="Tools & Languages Logos/1. Languages/1. C Language.png" /><br><b>C</b></td>
+      <td align="center"><img width="50" alt="C++" src="Tools & Languages Logos/1. Languages/2. C++ Language.png" /><br><b>C++</b></td>
+      <td align="center"><img width="55" alt="Embedded C" src="Tools & Languages Logos/1. Languages/3. Embedded C Language.png" /><br><b>Embedded C</b></td>
+      <td align="center"><img width="50" alt="Python" src="Tools & Languages Logos/1. Languages/4. Python.png" /><br><b>Python</b></td>
+      <td align="center"><img width="50" alt="Matlab" src="Tools & Languages Logos/1. Languages/5. Matlab.png" /><br><b>Matlab</b></td>
+      <td align="center"><img width="50" alt="Assembly" src="Tools & Languages Logos/1. Languages/6. Assembly.png" /><br><b>Assembly</b></td>
+      <td align="center"><img width="50" alt="Cuda" src="Tools & Languages Logos/1. Languages/7. Cuda.png" /><br><b>Cuda</b></td>
+      <td align="center"><img width="55" alt="System Verilog" src="Tools & Languages Logos/1. Languages/8. System Verilog.png" /><br><b>System Verilog</b></td>
+      <td align="center"><img width="50" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" /><br><b>Verilog</b></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+**2. FPGA Platforms**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="55" alt="Zybo Z7-20" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" /><br><b>Zybo Z7-20</b></td>
+      <td align="center"><img width="50" alt="Artix A7" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" /><br><b>Artix A7</b></td>
+      <td align="center"><img width="55" alt="DE1-SOC" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" /><br><b>DE1-SOC</b></td>
+      <td align="center"><img width="50" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" /><br><b>Vivado</b></td>
+      <td align="center"><img width="50" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" /><br><b>Quartus</b></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+**3. Embedded Systems**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="55" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" /><br><b>STM32</b></td>
+      <td align="center"><img width="55" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" /><br><b>ESP32</b></td>
+      <td align="center"><img width="50" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" /><br><b>AVR</b></td>
+      <td align="center"><img width="55" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" /><br><b>Pixhawk</b></td>
+      <td align="center"><img width="55" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" /><br><b>FreeRTOS</b></td>
+      <td align="center"><img width="65" alt="Jetson Nano" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" /><br><b>Jetson Nano</b></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+**4. AI & Machine Learning**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="50" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" /><br><b>Python</b></td>
+      <td align="center"><img width="65" alt="Tensor Flow" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" /><br><b>Tensor Flow</b></td>
+      <td align="center"><img width="50" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" /><br><b>PyTorch</b></td>
+      <td align="center"><img width="50" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" /><br><b>Keras</b></td>
+      <td align="center"><img width="50" alt="Numpy" src="Tools & Languages Logos/4. AI & Machine Learning/5. Numpy.png" /><br><b>Numpy</b></td>
+      <td align="center"><img width="45" alt="Scipy" src="Tools & Languages Logos/4. AI & Machine Learning/6. Scipy.png" /><br><b>Scipy</b></td>
+      <td align="center"><img width="55" alt="Pandas" src="Tools & Languages Logos/4. AI & Machine Learning/7. Pandas.png" /><br><b>Pandas</b></td>
+      <td align="center"><img width="55" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" /><br><b>OpenCV</b></td>
+      <td align="center"><img width="65" alt="Matplotlib" src="Tools & Languages Logos/4. AI & Machine Learning/9. Matplotliab.png" /><br><b>Matplotlib</b></td>
+      <td align="center"><img width="65" alt="BeautifulSoup" src="Tools & Languages Logos/4. AI & Machine Learning/10. Beautifulsoup.jpg" /><br><b>BeautifulSoup</b></td>
+      <td align="center"><img width="65" alt="Scikit-Learn" src="Tools & Languages Logos/4. AI & Machine Learning/11. Scikit-Learn.png" /><br><b>Scikit-Learn</b></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+
+
+
 
 ## Profile Summary
 [![Profile Summary for GitHub](https://img.shields.io/badge/Profile%20Summary-Click%20Here-blue?style=for-the-badge)](https://profile-summary-for-github.com/user/Awais-Asghar)
