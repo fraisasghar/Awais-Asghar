@@ -97,11 +97,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="55" alt="Zybo Z7-20" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" /><br><b>Zybo Z7-20</b></td>
-      <td align="center"><img width="50" alt="Artix A7" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" /><br><b>Artix A7</b></td>
-      <td align="center"><img width="55" alt="DE1-SOC" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" /><br><b>DE1-SOC</b></td>
-      <td align="center"><img width="50" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" /><br><b>Vivado</b></td>
-      <td align="center"><img width="50" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" /><br><b>Quartus</b></td>
+      <td align="center"><img width="75" alt="Zybo Z7-20" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" /><br><b>Zybo Z7-20</b></td>
+      <td align="center"><img width="75" alt="Artix A7" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" /><br><b>Artix A7</b></td>
+      <td align="center"><img width="75" alt="DE1-SOC" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" /><br><b>DE1-SOC</b></td>
+      <td align="center"><img width="75" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" /><br><b>Vivado</b></td>
+      <td align="center"><img width="75" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" /><br><b>Quartus</b></td>
     </tr>
   </table>
 </div>
@@ -113,12 +113,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="55" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" /><br><b>STM32</b></td>
-      <td align="center"><img width="55" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" /><br><b>ESP32</b></td>
-      <td align="center"><img width="50" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" /><br><b>AVR</b></td>
-      <td align="center"><img width="55" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" /><br><b>Pixhawk</b></td>
-      <td align="center"><img width="55" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" /><br><b>FreeRTOS</b></td>
-      <td align="center"><img width="65" alt="Jetson Nano" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" /><br><b>Jetson Nano</b></td>
+      <td align="center"><img width="70" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" /><br><b>STM32</b></td>
+      <td align="center"><img width="70" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" /><br><b>ESP32</b></td>
+      <td align="center"><img width="70" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" /><br><b>AVR</b></td>
+      <td align="center"><img width="110" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" /><br><b>Pixhawk</b></td>
+      <td align="center"><img width="110" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" /><br><b>FreeRTOS</b></td>
+      <td align="center"><img width="110" alt="Jetson Nano" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" /><br><b>Jetson Nano</b></td>
     </tr>
   </table>
 </div>
