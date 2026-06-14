@@ -1,10 +1,6 @@
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=AI%20Accelerators%20and%20Embedded%20AI&descSize=26&descAlignY=78" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=github_dark" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=Electrical%20Engineer%20|%20AI%20Accelerators%20|%20Embedded%20AI&descSize=26&descAlignY=78" />
 </div>
 
 ---
