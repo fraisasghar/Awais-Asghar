@@ -4,6 +4,57 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001F3F,100:0074D9&text=Awais%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=Electrical%20Engineer%20|%20AI%20Accelerators%20|%20Embedded%20AI&descSize=26&descAlignY=78" />
 </div>
 
+
+
+
+### **My Tools & Languages:**
+
+<div align="center">
+  <!-- 1. Languages Folder -->
+  <img width="60" height="50" alt="C Language" src="Tools & Languages Logos/1. Languages/1. C Language.png" />
+  <img width="60" height="50" alt="C++ Language" src="Tools & Languages Logos/1. Languages/2. C++ Language.png" />
+  <img width="70" height="50" alt="Embedded C" src="Tools & Languages Logos/1. Languages/3. Embedded C Language.png" />
+  <img width="60" height="50" alt="Python" src="Tools & Languages Logos/1. Languages/4. Python.png" />
+  <img width="60" height="50" alt="Matlab" src="Tools & Languages Logos/1. Languages/5. Matlab.png" />
+  <img width="60" height="50" alt="Assembly" src="Tools & Languages Logos/1. Languages/6. Assembly.png" />
+  <img width="60" height="50" alt="Cuda" src="Tools & Languages Logos/1. Languages/7. Cuda.png" />
+  <img width="70" height="50" alt="System Verilog" src="Tools & Languages Logos/1. Languages/8. System Verilog.png" />
+  <img width="60" height="50" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" />
+
+  <!-- 2. FPGA Platform Folder -->
+  <img width="70" height="50" alt="Zybo z7-20" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" />
+  <img width="60" height="50" alt="Artix A7" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" />
+  <img width="70" height="50" alt="DE1-SOC" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" />
+  <img width="60" height="50" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" />
+  <img width="60" height="50" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" />
+
+  <!-- 3. Embedded System Folder -->
+  <img width="70" height="50" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" />
+  <img width="70" height="50" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" />
+  <img width="60" height="50" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" />
+  <img width="70" height="50" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" />
+  <img width="70" height="50" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" />
+  <img width="80" height="50" alt="Jetson Nano" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" />
+
+  <!-- 4. AI & Machine Learning Folder -->
+  <img width="60" height="50" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" />
+  <img width="80" height="50" alt="Tensor Flow" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" />
+  <img width="60" height="50" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" />
+  <img width="60" height="50" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" />
+  <img width="60" height="50" alt="Numpy" src="Tools & Languages Logos/4. AI & Machine Learning/5. Numpy.png" />
+  <img width="50" height="50" alt="Scipy" src="Tools & Languages Logos/4. AI & Machine Learning/6. Scipy.png" />
+  <img width="70" height="50" alt="Pandas" src="Tools & Languages Logos/4. AI & Machine Learning/7. Pandas.png" />
+  <img width="70" height="50" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" />
+  <img width="80" height="50" alt="Matplotlib" src="Tools & Languages Logos/4. AI & Machine Learning/9. Matplotliab.png" />
+  <img width="80" height="50" alt="BeautifulSoup" src="Tools & Languages Logos/4. AI & Machine Learning/10. Beautifulsoup.jpg" />
+  <img width="80" height="50" alt="Scikit-learn" src="Tools & Languages Logos/4. AI & Machine Learning/11. Scikit-Learn.png" />
+</div>
+<br>
+
+
+
+
+
  <!---------------------------------------------- views, followers Banner ------------------------------------------------------>
 <p align="center">
   <a href="https://profile-summary-for-github.com/user/Awais-Asghar">
