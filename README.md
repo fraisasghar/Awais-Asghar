@@ -70,9 +70,9 @@
 
 
 
-### My Technical Stack:
+## My Technical Stack:
 
-**1. Languages**
+### 1. Languages:
 
 <div align="center">
   <table>
@@ -90,9 +90,7 @@
   </table>
 </div>
 
-<br>
-
-**2. FPGA Platforms**
+### 2. FPGA Platforms:
 
 <div align="center">
   <table>
@@ -106,9 +104,8 @@
   </table>
 </div>
 
-<br>
 
-**3. Embedded Systems**
+### 3. Embedded Systems:
 
 <div align="center">
   <table>
@@ -123,9 +120,7 @@
   </table>
 </div>
 
-<br>
-
-**4. AI & Machine Learning**
+### 4. AI & Machine Learning:
 
 <div align="center">
   <table>
@@ -145,10 +140,7 @@
   </table>
 </div>
 
-<br>
-
-
-
+---
 
 
 ## Profile Summary
