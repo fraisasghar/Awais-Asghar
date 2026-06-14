@@ -10,44 +10,44 @@
 ### **My Tools & Languages:**
 
 <div align="center">
-  <!-- 1. Languages Folder -->
-  <img width="60" height="50" alt="C Language" src="Tools & Languages Logos/1. Languages/1. C Language.png" />
-  <img width="60" height="50" alt="C++ Language" src="Tools & Languages Logos/1. Languages/2. C++ Language.png" />
-  <img width="70" height="50" alt="Embedded C" src="Tools & Languages Logos/1. Languages/3. Embedded C Language.png" />
-  <img width="60" height="50" alt="Python" src="Tools & Languages Logos/1. Languages/4. Python.png" />
-  <img width="60" height="50" alt="Matlab" src="Tools & Languages Logos/1. Languages/5. Matlab.png" />
-  <img width="60" height="50" alt="Assembly" src="Tools & Languages Logos/1. Languages/6. Assembly.png" />
-  <img width="60" height="50" alt="Cuda" src="Tools & Languages Logos/1. Languages/7. Cuda.png" />
-  <img width="70" height="50" alt="System Verilog" src="Tools & Languages Logos/1. Languages/8. System Verilog.png" />
-  <img width="60" height="50" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" />
+  <!-- 1. Languages -->
+  <img width="40" alt="C" src="Tools & Languages Logos/1. Languages/1. C Language.png" />
+  <img width="40" alt="C++" src="Tools & Languages Logos/1. Languages/2. C++ Language.png" />
+  <img width="45" alt="Embedded C" src="Tools & Languages Logos/1. Languages/3. Embedded C Language.png" />
+  <img width="40" alt="Python" src="Tools & Languages Logos/1. Languages/4. Python.png" />
+  <img width="40" alt="Matlab" src="Tools & Languages Logos/1. Languages/5. Matlab.png" />
+  <img width="40" alt="Assembly" src="Tools & Languages Logos/1. Languages/6. Assembly.png" />
+  <img width="40" alt="Cuda" src="Tools & Languages Logos/1. Languages/7. Cuda.png" />
+  <img width="45" alt="SysVerilog" src="Tools & Languages Logos/1. Languages/8. System Verilog.png" />
+  <img width="40" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" />
 
-  <!-- 2. FPGA Platform Folder -->
-  <img width="70" height="50" alt="Zybo z7-20" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" />
-  <img width="60" height="50" alt="Artix A7" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" />
-  <img width="70" height="50" alt="DE1-SOC" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" />
-  <img width="60" height="50" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" />
-  <img width="60" height="50" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" />
+  <!-- 2. FPGA -->
+  <img width="45" alt="Zybo" src="Tools & Languages Logos/2. FPGA Plateform/1. Zybo z7-20.png" />
+  <img width="40" alt="Artix" src="Tools & Languages Logos/2. FPGA Plateform/2. Artix A7.png" />
+  <img width="45" alt="DE1" src="Tools & Languages Logos/2. FPGA Plateform/3. DE1-SOC.png" />
+  <img width="40" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" />
+  <img width="40" alt="Quartus" src="Tools & Languages Logos/2. FPGA Plateform/5. Quartus.png" />
 
-  <!-- 3. Embedded System Folder -->
-  <img width="70" height="50" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" />
-  <img width="70" height="50" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" />
-  <img width="60" height="50" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" />
-  <img width="70" height="50" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" />
-  <img width="70" height="50" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" />
-  <img width="80" height="50" alt="Jetson Nano" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" />
+  <!-- 3. Embedded -->
+  <img width="45" alt="STM32" src="Tools & Languages Logos/3, Embedded System/1. STM32.png" />
+  <img width="45" alt="ESP32" src="Tools & Languages Logos/3, Embedded System/2. ESP32.png" />
+  <img width="40" alt="AVR" src="Tools & Languages Logos/3, Embedded System/3. AVR.png" />
+  <img width="45" alt="Pixhawk" src="Tools & Languages Logos/3, Embedded System/4. Pixhawk.png" />
+  <img width="45" alt="FreeRTOS" src="Tools & Languages Logos/3, Embedded System/5. FreeRTOS.png" />
+  <img width="55" alt="Jetson" src="Tools & Languages Logos/3, Embedded System/6. Jetson Nano.png" />
 
-  <!-- 4. AI & Machine Learning Folder -->
-  <img width="60" height="50" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" />
-  <img width="80" height="50" alt="Tensor Flow" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" />
-  <img width="60" height="50" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" />
-  <img width="60" height="50" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" />
-  <img width="60" height="50" alt="Numpy" src="Tools & Languages Logos/4. AI & Machine Learning/5. Numpy.png" />
-  <img width="50" height="50" alt="Scipy" src="Tools & Languages Logos/4. AI & Machine Learning/6. Scipy.png" />
-  <img width="70" height="50" alt="Pandas" src="Tools & Languages Logos/4. AI & Machine Learning/7. Pandas.png" />
-  <img width="70" height="50" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" />
-  <img width="80" height="50" alt="Matplotlib" src="Tools & Languages Logos/4. AI & Machine Learning/9. Matplotliab.png" />
-  <img width="80" height="50" alt="BeautifulSoup" src="Tools & Languages Logos/4. AI & Machine Learning/10. Beautifulsoup.jpg" />
-  <img width="80" height="50" alt="Scikit-learn" src="Tools & Languages Logos/4. AI & Machine Learning/11. Scikit-Learn.png" />
+  <!-- 4. AI/ML -->
+  <img width="40" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" />
+  <img width="55" alt="TF" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" />
+  <img width="40" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" />
+  <img width="40" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" />
+  <img width="40" alt="Numpy" src="Tools & Languages Logos/4. AI & Machine Learning/5. Numpy.png" />
+  <img width="35" alt="Scipy" src="Tools & Languages Logos/4. AI & Machine Learning/6. Scipy.png" />
+  <img width="45" alt="Pandas" src="Tools & Languages Logos/4. AI & Machine Learning/7. Pandas.png" />
+  <img width="45" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" />
+  <img width="55" alt="Matplotlib" src="Tools & Languages Logos/4. AI & Machine Learning/9. Matplotliab.png" />
+  <img width="55" alt="BeautifulSoup" src="Tools & Languages Logos/4. AI & Machine Learning/10. Beautifulsoup.jpg" />
+  <img width="55" alt="Sklearn" src="Tools & Languages Logos/4. AI & Machine Learning/11. Scikit-Learn.png" />
 </div>
 <br>
 
