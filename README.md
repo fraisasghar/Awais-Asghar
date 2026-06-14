@@ -219,14 +219,16 @@ Focus on low latency, hardware software co-design, and efficient on-chip memory 
 </br>
 Built for AI accelerator research, FPGA design, and graduate opportunities
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awais-Asghar/Awais-Asghar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awais-Asghar/Awais-Asghar/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Awais-Asghar/Awais-Asghar/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 
 ---
 
