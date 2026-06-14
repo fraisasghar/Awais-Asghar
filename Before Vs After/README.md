@@ -1,1 +1,3 @@
-<img width="3052" height="15608" alt="Before" src="https://github.com/user-attachments/assets/422a398e-e46c-4114-8d4b-4e5cdcfa0aad" />
+<div align="center">
+  <img width="900" alt="Before" src="https://github.com/user-attachments/assets/6b78cc64-c3b2-4f46-856a-1f94a1f2f3cc" />
+</div>
