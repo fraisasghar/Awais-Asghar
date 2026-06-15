@@ -216,15 +216,79 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 ---
 
-## Final Year Project
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0B1C2D,100:123A63&text=ML%20Based%20Hardware%20Accelerator&fontSize=32&fontColor=ffffff&desc=Real%20Time%20Image%20Segmentation%20on%20FPGA&descSize=20&descAlignY=75" />
-</div>
 
-<p align="center">
-Design and implementation of an FPGA based accelerator for real time image segmentation using an encoder decoder architecture.  
-Focus on low latency, hardware software co-design, and efficient on-chip memory utilization.
-</p>
+
+## Final Year Project
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0B1C2D,50:1A3A5C,100:0D47A1&text=ML%20Based%20Hardware%20Accelerator&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Real-Time%20Image%20Segmentation%20on%20FPGA%20%7C%20NUST%20FYP%202026&descSize=16&descAlignY=68&stroke=4488FF&strokeWidth=1" />
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/processor.png" width="50"/><br/>
+      <strong>FPGA Accelerator</strong><br/>
+      <sub>Zybo Z7-20 · Artix A7<br/>Xilinx Vivado</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="50"/><br/>
+      <strong>Encoder-Decoder</strong><br/>
+      <sub>U-Net Architecture<br/>RTL Implementation</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/camera.png" width="50"/><br/>
+      <strong>Computer Vision</strong><br/>
+      <sub>Real-Time Segmentation<br/>Low Latency Inference</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/nolan/64/circuit.png" width="50"/><br/>
+      <strong>HW-SW Co-Design</strong><br/>
+      <sub>On-Chip Memory<br/>Efficient Utilization</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> *Design and implementation of an FPGA-based accelerator for real-time image segmentation using an encoder-decoder architecture — with focus on low latency, hardware-software co-design, and efficient on-chip memory utilization.*
+
+<br/>
+
+**Tech Stack**
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/python.png" width="40"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/><br/>
+      <sub>TensorFlow</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/opencv.png" width="40"/><br/>
+      <sub>OpenCV</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/nvidia.png" width="40"/><br/>
+      <sub>CUDA</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/nolan/48/processor.png" width="40"/><br/>
+      <sub>Verilog</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/xilinx.png" width="40"/><br/>
+      <sub>Vivado</sub>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
