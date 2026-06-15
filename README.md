@@ -255,38 +255,20 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 > *Design and implementation of an FPGA-based accelerator for real-time image segmentation using an encoder-decoder architecture — with focus on low latency, hardware-software co-design, and efficient on-chip memory utilization.*
 
-<br/>
 
-**Tech Stack**
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/color/48/python.png" width="40"/><br/>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/><br/>
-      <sub>TensorFlow</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/color/48/opencv.png" width="40"/><br/>
-      <sub>OpenCV</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/color/48/nvidia.png" width="40"/><br/>
-      <sub>CUDA</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/nolan/48/processor.png" width="40"/><br/>
-      <sub>Verilog</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/color/48/xilinx.png" width="40"/><br/>
-      <sub>Vivado</sub>
-    </td>
-  </tr>
-</table>
+<div align="left">
+<h1>Tech Stack: &nbsp;
+<img width="36" alt="Python" src="Tools & Languages Logos/4. AI & Machine Learning/1. Python.png" />
+<img width="36" alt="TensorFlow" src="Tools & Languages Logos/4. AI & Machine Learning/2. Tensor Flow.png" />
+<img width="36" alt="PyTorch" src="Tools & Languages Logos/4. AI & Machine Learning/3. Pytorch.png" />
+<img width="36" alt="Keras" src="Tools & Languages Logos/4. AI & Machine Learning/4. Keras.png" />
+<img width="36" alt="OpenCV" src="Tools & Languages Logos/4. AI & Machine Learning/8. Opencv.png" />
+<img width="36" alt="Verilog" src="Tools & Languages Logos/1. Languages/9. Verilog.png" />
+<img width="36" alt="Vivado" src="Tools & Languages Logos/2. FPGA Plateform/4. Vivado.png" />
+<img width="36" alt="CUDA" src="Tools & Languages Logos/1. Languages/7. Cuda.png" />
+</h1>
+</div>
 
 
 
