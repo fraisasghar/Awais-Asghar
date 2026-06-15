@@ -253,7 +253,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 <br/>
 
-> *Design and implementation of an FPGA-based accelerator for real-time image segmentation using an encoder-decoder architecture — with focus on low latency, hardware-software co-design, and efficient on-chip memory utilization.*
+> *Design and implementation of an FPGA-based accelerator for real-time image segmentation using an encoder-decoder architecture, with focus on low latency, hardware-software co-design, and efficient on-chip memory utilization.*
 
 
 
@@ -297,8 +297,12 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 <br/>
 <sub>📧 awaisasghara786@gmail.com &nbsp;|&nbsp; 🏛️ aasghar.bee22seecs@seecs.edu.pk &nbsp;|&nbsp; 💼 LinkedIn &nbsp;|&nbsp;  GitHub</sub>
 </br>
-Built for AI accelerator research, FPGA design, and graduate opportunities
+</div>
 
+</br>
+
+<div align="center">
+Built for AI accelerator research, FPGA design, and graduate opportunities
 </div>
 
 
