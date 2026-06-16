@@ -77,7 +77,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 
 
-## Education
+## Education:
 
 <table>
   <tr>
@@ -171,54 +171,50 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 ---
 
-## Research Interests
+## Research Interests:
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
-      <strong>AI Accelerators</strong><br/>
-      <sub>Hardware-optimized neural<br/>network inference engines</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/nolan/64/processor.png" width="55"/><br/>
-      <strong>FPGA & RTL Design</strong><br/>
-      <sub>Synthesis & implementation<br/>on Xilinx & Intel platforms</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/nolan/64/circuit.png" width="55"/><br/>
-      <strong>Embedded AI Systems</strong><br/>
-      <sub>Real-time ML deployment<br/>on constrained edge devices</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/nolan/64/camera.png" width="55"/><br/>
-      <strong>Computer Vision</strong><br/>
-      <sub>Deep learning pipelines<br/>for visual perception</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/nolan/64/motherboard.png" width="55"/><br/>
-      <strong>HW-SW Co-Design</strong><br/>
-      <sub>Bridging intelligent algorithms<br/>to physical silicon</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/nolan/64/cyber-security.png" width="55"/><br/>
-      <strong>Edge Computing</strong><br/>
-      <sub>Low-latency inference on<br/>Jetson & embedded platforms</sub>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
+        <strong>AI Accelerators</strong><br/>
+        <sub>Hardware-optimized neural<br/>network inference engines</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/nolan/64/processor.png" width="55"/><br/>
+        <strong>FPGA & RTL Design</strong><br/>
+        <sub>Synthesis & implementation<br/>on Xilinx & Intel platforms</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/nolan/64/circuit.png" width="55"/><br/>
+        <strong>Embedded AI Systems</strong><br/>
+        <sub>Real-time ML deployment<br/>on constrained edge devices</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/nolan/64/camera.png" width="55"/><br/>
+        <strong>Computer Vision</strong><br/>
+        <sub>Deep learning pipelines<br/>for visual perception</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/nolan/64/motherboard.png" width="55"/><br/>
+        <strong>HW-SW Co-Design</strong><br/>
+        <sub>Bridging intelligent algorithms<br/>to physical silicon</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/nolan/64/cyber-security.png" width="55"/><br/>
+        <strong>Edge Computing</strong><br/>
+        <sub>Low-latency inference on<br/>Jetson & embedded platforms</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 
 
-## Final Year Project
+## Final Year Project:
 
 <div align="center">
 
