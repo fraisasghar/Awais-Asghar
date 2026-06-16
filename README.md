@@ -96,11 +96,12 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 ---
 
+</br>
  <!----------------------------------------------Technical stack ------------------------------------------------------>
 
 
 
-## My Technical Stack:
+# My Technical Stack:
 
 ### 1. Languages:
 
@@ -171,8 +172,9 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 </div>
 
 ---
+</br>
 
-## Research Interests:
+# Research Interests:
 
 <div align="center">
   <table>
@@ -208,8 +210,9 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 ---
 
 
+</br>
 
-## Final Year Project:
+# Final Year Project:
 
 <div align="center">
 
@@ -264,7 +267,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 
 ---
-
+</br>
 
  # GitHub Activity & Stats:
     
@@ -294,9 +297,9 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 
 ---
+</br>
 
-
-## Connect With Me
+# Connect With Me
 
 <div align="center">
 
