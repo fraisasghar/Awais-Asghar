@@ -176,35 +176,29 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" width="130">
         <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
-        <strong>AI Accelerators</strong><br/>
-        <sub>Hardware-optimized neural<br/>network inference engines</sub>
+        <strong>AI Accelerators</strong>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="130">
         <img src="https://img.icons8.com/nolan/64/processor.png" width="55"/><br/>
-        <strong>FPGA & RTL Design</strong><br/>
-        <sub>Synthesis & implementation<br/>on Xilinx & Intel platforms</sub>
+        <strong>FPGA & RTL Design</strong>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="130">
         <img src="https://img.icons8.com/nolan/64/circuit.png" width="55"/><br/>
-        <strong>Embedded AI Systems</strong><br/>
-        <sub>Real-time ML deployment<br/>on constrained edge devices</sub>
+        <strong>Embedded AI Systems</strong>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="130">
         <img src="https://img.icons8.com/nolan/64/camera.png" width="55"/><br/>
-        <strong>Computer Vision</strong><br/>
-        <sub>Deep learning pipelines<br/>for visual perception</sub>
+        <strong>Computer Vision</strong>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="130">
         <img src="https://img.icons8.com/nolan/64/motherboard.png" width="55"/><br/>
-        <strong>HW-SW Co-Design</strong><br/>
-        <sub>Bridging intelligent algorithms<br/>to physical silicon</sub>
+        <strong>HW-SW Co-Design</strong>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="130">
         <img src="https://img.icons8.com/nolan/64/cyber-security.png" width="55"/><br/>
-        <strong>Edge Computing</strong><br/>
-        <sub>Low-latency inference on<br/>Jetson & embedded platforms</sub>
+        <strong>Edge Computing</strong>
       </td>
     </tr>
   </table>
