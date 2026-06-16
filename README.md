@@ -264,6 +264,32 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 ---
 
+
+<div align="left">
+# GitHub Activity & Stats:
+</div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=radical" width="100%" />
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awais-Asghar&theme=radical" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awais-Asghar&theme=radical" width="100%" />
+    </td>
+    <td width="34%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais-Asghar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais-Asghar&theme=redical&hide_border=true&area=true&custom_title=Contribution+Graph" width="100%" />
+
+---
+
+
 ## Connect With Me
 
 <div align="center">
