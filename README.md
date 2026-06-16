@@ -81,13 +81,13 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 <table>
   <tr>
-    <td width="80" align="center">
-      <img src="Tools & Languages Logos/NUST logo.png" width="60" alt="NUST"/>
+    <td width="100" align="center">
+      <img src="Tools & Languages Logos/NUST logo.png" width="100" alt="NUST"/>
     </td>
     <td>
       <strong>Bachelor of Engineering in Electrical Engineering</strong><br/>
       <a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan<br/>
-      📅 <em>2022 – 2026</em> &nbsp;|&nbsp;  <strong>CGPA: 3.58 / 4.00</strong>
+      📅 <em>2022 – 2026</em> &nbsp;|&nbsp;  <strong>CGPA: 3.64 / 4.00</strong>
     </td>
   </tr>
 </table>
