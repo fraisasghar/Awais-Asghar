@@ -1,3 +1,4 @@
+ 
  <!---------------------------------------------- Cover Banner ------------------------------------------------------>
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 <div align="center"> 
@@ -81,8 +82,8 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 <table>
   <tr>
-    <td width="100" align="center">
-      <img src="Tools & Languages Logos/NUST logo.png" width="100" alt="NUST"/>
+    <td width="130" align="center">
+      <img src="Tools & Languages Logos/NUST logo.png" width="130" alt="NUST"/>
     </td>
     <td>
       <strong>Bachelor of Engineering in Electrical Engineering</strong><br/>
@@ -265,27 +266,32 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 ---
 
 
-<div align="left">
-# GitHub Activity & Stats:
-</div>
+ # GitHub Activity & Stats:
+    
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=radical" style="width: 100%; max-width: 100%; display: block;" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=radical" width="100%" />
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td width="33%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awais-Asghar&theme=radical" width="100%" />
+    <td align="center" style="padding: 0; width: 33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awais-Asghar&theme=radical" style="width: 100%; display: block;" />
     </td>
-    <td width="33%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awais-Asghar&theme=radical" width="100%" />
+    <td align="center" style="padding: 0; width: 33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awais-Asghar&theme=radical" style="width: 100%; display: block;" />
     </td>
-    <td width="34%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais-Asghar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+    <td align="center" style="padding: 0; width: 34%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais-Asghar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="width: 100%; display: block;" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais-Asghar&theme=redical&hide_border=true&area=true&custom_title=Contribution+Graph" width="100%" />
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="padding: 0; width: 100%;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais-Asghar&theme=radical&hide_border=true&area=true&custom_title=Contribution+Graph" style="width: 100%; display: block;" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -310,9 +316,6 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
   <img src="https://img.icons8.com/fluency/48/github.png" width="45" alt="GitHub"/>
 </a>
 
-<br/>
-<sub>📧 awaisasghara786@gmail.com &nbsp;|&nbsp; 🏛️ aasghar.bee22seecs@seecs.edu.pk &nbsp;|&nbsp; 💼 LinkedIn &nbsp;|&nbsp;  GitHub</sub>
-</br>
 </div>
 
 </br>
@@ -320,6 +323,10 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 <div align="center">
 Built for AI accelerator research, FPGA design, and graduate opportunities
 </div>
+
+
+
+
 
 
 <div align="center">
