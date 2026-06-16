@@ -82,7 +82,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 <table>
   <tr>
     <td width="80" align="center">
-      <img src="https://raw.githubusercontent.com/fraisasghar/fraisasghar/main/nust_logo.png" width="60" alt="NUST"/>
+      <img src="Tools & Languages Logos/NUST logo.png" width="60" alt="NUST"/>
     </td>
     <td>
       <strong>Bachelor of Engineering in Electrical Engineering</strong><br/>
