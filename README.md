@@ -1,4 +1,5 @@
- 
+
+
  <!---------------------------------------------- Cover Banner ------------------------------------------------------>
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 <div align="center"> 
@@ -214,9 +215,10 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 # Final Year Project:
 
+<!-- THEME 10: BRIGHT CYAN-PURPLE GRADIENT (White text - BEST FOR DARK MODE) -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0B1C2D,50:1A3A5C,100:0D47A1&text=ML%20Based%20Hardware%20Accelerator&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Real-Time%20Image%20Segmentation%20on%20FPGA%20%7C%20NUST%20FYP%202026&descSize=16&descAlignY=68&stroke=4488FF&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=ML%20Based%20Hardware%20Accelerator&fontSize=40&desc=Real-Time%20Image%20Segmentation%20on%20FPGA%20%7C%20NUST%20FYP%202026&descSize=16&fontColor=FFFFFF&stroke=000000&strokeWidth=0" />
+</div>
 
 <br/>
 
