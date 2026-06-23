@@ -297,28 +297,32 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Awais-Asghar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&row=1" width="100%" alt="Trophies" />
+</p>
+
 
 ---
 </br>
 
-# Connect With Me
+# Connect With Me:
 
 <div align="center">
 
 <a href="mailto:awaisasghara786@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Gmail"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="" alt="55Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:aasghar.bee22seecs@seecs.edu.pk">
-  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="45" alt="Outlook"/>
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="55" alt="Outlook"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/awais--asghar">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="55" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Awais-Asghar">
-  <img src="https://img.icons8.com/fluency/48/github.png" width="45" alt="GitHub"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" width="55" alt="GitHub"/>
 </a>
 
 </div>
