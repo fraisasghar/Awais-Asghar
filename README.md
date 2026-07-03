@@ -80,31 +80,33 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 
 ## Education:
-
-<table>
-  <tr>
-    <td width="130" align="center">
-      <img src="Tools & Languages Logos/NUST logo.png" width="130" alt="NUST"/>
-    </td>
-    <td>
-      <strong>Bachelor of Engineering in Electrical Engineering</strong><br/>
-      <a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan<br/>
-      📅 <em>2022 – 2026</em> &nbsp;|&nbsp;  <strong>CGPA: 3.64 / 4.00</strong>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="130" align="center">
+        <img src="Tools & Languages Logos/NUST logo.png" width="130" alt="NUST"/>
+      </td>
+      <td align="center">
+        <h2>Bachelor of Engineering in Electrical Engineering</h2>
+        <h4><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan</h4>
+        <h5>2022 – 2026 | CGPA: 3.64 / 4.0 | School of Electrical Engineering & CS </h5>
+      </td>
+      <td width="130" align="center">
+        <img src="Tools & Languages Logos/NUST SEECS.png" width="130" alt="SEECS"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-</br>
- <!----------------------------------------------Technical stack ------------------------------------------------------>
+<!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
+<div align="center">
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/b7178226-f608-4cdf-a03b-322ce0be2b9f" />
+</div>
 
 
-
-# My Technical Stack:
-
-### 1. Languages:
+## 1. Languages:
 
 <div align="center">
   <table>
@@ -122,7 +124,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
   </table>
 </div>
 
-### 2. FPGA Platforms:
+## 2. FPGA Platforms:
 
 <div align="center">
   <table>
@@ -137,7 +139,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 </div>
 
 
-### 3. Embedded Systems:
+## 3. Embedded Systems:
 
 <div align="center">
   <table>
@@ -152,7 +154,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
   </table>
 </div>
 
-### 4. AI & Machine Learning:
+## 4. AI & Machine Learning:
 
 <div align="center">
   <table>
@@ -175,7 +177,12 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 ---
 </br>
 
-# Research Interests:
+<!------------------------------------------------------------------------Research Interests ------------------------------------------------------------------------>
+
+<div align="center">
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/2ca12970-5732-4eef-bcfa-91d7ac427fef" />
+</div>
+</br>
 
 <div align="center">
   <table>
@@ -271,7 +278,13 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 ---
 </br>
 
- # GitHub Activity & Stats:
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     Github Analytics                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/9081e5b1-af22-4fcb-8bc2-c2459f8ec644" />
+</div>
     
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-Asghar&theme=radical" style="width: 100%; max-width: 100%; display: block;" />
 
@@ -304,8 +317,12 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 ---
 </br>
-
-# Connect With Me:
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT WITH ME                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/d68510e4-aa37-432b-8e54-6e86d00c0d22" />
+</div>
 
 <div align="center">
 
