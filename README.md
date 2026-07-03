@@ -91,8 +91,8 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
         <h4><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan</h4>
         <h5>2022 – 2026 | CGPA: 3.64 / 4.0 | School of Electrical Engineering & CS </h5>
       </td>
-      <td width="130" align="center">
-        <img src="Tools & Languages Logos/NUST SEECS.png" width="130" alt="SEECS"/>
+      <td width="180" align="center">
+        <img src="Tools & Languages Logos/SEECS.png" width="180" alt="SEECS"/>
       </td>
     </tr>
   </table>
