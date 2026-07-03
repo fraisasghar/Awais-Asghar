@@ -324,6 +324,29 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/d68510e4-aa37-432b-8e54-6e86d00c0d22" />
 </div>
 
+
+
+
+<p align="center">
+  <a href="mailto:theqadees@gmail.com" target="_blank">
+    <img src="Connect with me Cards/Primary Email.png" alt="Primary Email" width="22%">
+  </a>
+  <a href="mailto:qadeesasghar404@gmail.com" target="_blank">
+    <img src="Connect with me Cards/Secondary Email.png" alt="Secondary Email" width="22%">
+  </a>
+  <a href="https://www.linkedin.com/in/qadees-asghar-734307316" target="_blank">
+    <img src="Connect with me Cards/LinkedIn.png" alt="LinkedIn" width="22%">
+  </a>
+  <a href="https://github.com/Qadees-Asghar" target="_blank">
+    <img src="Connect with me Cards/GitHub.png" alt="GitHub" width="22%">
+  </a>
+</p>
+
+</br>
+
+
+
+
 <div align="center">
 
 <a href="mailto:awaisasghara786@gmail.com">
@@ -345,6 +368,12 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 </div>
 
 </br>
+
+<div align="center">
+  <a href="mailto:awaisasghara786@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-2A1A4A?style=for-the-badge&logo=rocket&logoColor=white&labelColor=2A1A4A&color=003344" height="60"/>
+  </a>
+</div>
 
 <div align="center">
 Built for AI accelerator research, FPGA design, and graduate opportunities
