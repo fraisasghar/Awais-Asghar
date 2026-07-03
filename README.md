@@ -64,8 +64,8 @@
   </a>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:00c6ff&height=2">
 
----
 
 
 ## Professional Summary:
@@ -104,7 +104,6 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 <div align="center">
 <img width="311" alt="image" src="https://github.com/user-attachments/assets/b7178226-f608-4cdf-a03b-322ce0be2b9f" />
 </div>
-
 
 ## 1. Languages:
 
@@ -175,6 +174,7 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 </div>
 
 ---
+
 </br>
 
 <!------------------------------------------------------------------------Research Interests ------------------------------------------------------------------------>
@@ -328,16 +328,16 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
 
 
 <p align="center">
-  <a href="mailto:theqadees@gmail.com" target="_blank">
-    <img src="Connect with me Cards/Primary Email.png" alt="Primary Email" width="22%">
+  <a href="mailto:awaisasghara786@gmail.com" target="_blank">
+    <img src="Connect with me Cards/Primary Mail.png" alt="Primary Mail" width="22%">
   </a>
-  <a href="mailto:qadeesasghar404@gmail.com" target="_blank">
-    <img src="Connect with me Cards/Secondary Email.png" alt="Secondary Email" width="22%">
+  <a href="mailto:aasghar.bee22seecs@seecs.edu.pk" target="_blank">
+    <img src="Connect with me Cards/Secondary Mail.png" alt="Secondary Mail" width="22%">
   </a>
-  <a href="https://www.linkedin.com/in/qadees-asghar-734307316" target="_blank">
+  <a href="https://linkedin.com/in/awais--asghar" target="_blank">
     <img src="Connect with me Cards/LinkedIn.png" alt="LinkedIn" width="22%">
   </a>
-  <a href="https://github.com/Qadees-Asghar" target="_blank">
+  <a href="https://github.com/Awais-Asghar" target="_blank">
     <img src="Connect with me Cards/GitHub.png" alt="GitHub" width="22%">
   </a>
 </p>
@@ -375,12 +375,19 @@ and **AI/ML frameworks** including TensorFlow · PyTorch · Keras · OpenCV. And
   </a>
 </div>
 
+
+
 <div align="center">
-Built for AI accelerator research, FPGA design, and graduate opportunities
+  <p style="font-size:24px; color:#AE81FF;">
+    <strong>AI accelerator Research • Technical Roles • AI/ML • FPGA design</strong>
+  </p>
+
+  <p style="color:#FFFFFF; font-size:15px;">
+    <em>Last Updated: July 2026 • Built with precision for engineering Excellence</em>
+  </p>
 </div>
 
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6a3093,100:00c6ff&height=2">
 
 
 
